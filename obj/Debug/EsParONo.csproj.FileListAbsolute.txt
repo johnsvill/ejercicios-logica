@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsParONo\EsParONo\bin\Debug\EsParONo.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsParONo\EsParONo\bin\Debug\EsParONo.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsParONo\EsParONo\bin\Debug\EsParONo.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsParONo\EsParONo\obj\Debug\EsParONo.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsParONo\EsParONo\obj\Debug\EsParONo.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsParONo\EsParONo\obj\Debug\EsParONo.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsParONo\EsParONo\obj\Debug\EsParONo.pdb
